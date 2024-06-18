@@ -1,0 +1,19 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "A simple server created using express",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "JS_Backend"
+  },
+  "author": "Rana Muneeb Asad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
